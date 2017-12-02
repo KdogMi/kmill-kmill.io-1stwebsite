@@ -1,8 +1,6 @@
-## Welcome to GitHub Pages
+## Welcome to Kevin's Website
 
-You can use the [editor on GitHub](https://github.com/KdogMi/kmill-kmill.io-1stwebsite/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+This has been hard to do, every journy beigns with a single step.
 
 ### Markdown
 
